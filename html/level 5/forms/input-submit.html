@@ -3,14 +3,19 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Input Basic</title>
+    <title>Input Submit</title>
   </head>
   <body>
     <form action="/server">
       Username:
-      <input type="text" placeholder="Enter username" /><br />
+      <input type="text" placeholder="Enter username" required="true" /><br />
       Password:
-      <input type="password" placeholder="Enter password" /><br />
+      <input
+        type="password"
+        placeholder="Enter password"
+        required="true"
+      /><br />
+      <input type="submit" />
     </form>
   </body>
 </html>

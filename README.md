@@ -18,7 +18,7 @@ This repository is created only for **personal learning and educational purposes
 
 ---
 
-## 🧠 Topics Covered (Brief Overview)
+## 🧠 Topics Covered
 
 - Basic HTML structure and elements
 - Text formatting: Bold, Italic, Underline, Strike, Headings, Paragraphs
@@ -33,7 +33,7 @@ This repository is created only for **personal learning and educational purposes
 
 ## 🙏 Credits
 
-Special thanks to **Coding by Prashant Sir** for providing free and helpful tutorials that made learning HTML easier.
+Special thanks to ** Complete Coding by Prashant Sir** for providing free and helpful tutorials that made learning HTML easier.
 
 You can find his YouTube channel here:  
 👉 [Complete Coding by Prashant Sir on YouTube](https://www.youtube.com/@CompleteCodingByPrashantSir)
@@ -43,5 +43,5 @@ You can find his YouTube channel here:
 ## ⚖️ License
 
 This repository is for **educational and personal use only**.  
-The original tutorial content belongs to **Coding by Prashant Sir**.  
+The original tutorial content belongs to **Complete Coding by Prashant Sir**.  
 No copyright infringement is intended.

@@ -1,0 +1,25 @@
+/* Let's see how comment works! */
+h1 {
+  color: red;
+}
+
+#heading {
+  color: green;
+}
+
+#random {
+  color: rgb(147, 87, 10);
+}
+
+p {
+  color: brown;
+}
+
+.least {
+  color: chocolate;
+}
+
+#first,
+#second {
+  color: cornflowerblue;
+}

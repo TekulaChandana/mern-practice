@@ -39,7 +39,7 @@ This repository is created purely for **personal revision and educational purpos
 A special thanks to **Complete Coding by Prashant Sir** for creating clear and practical tutorials that made revising MERN concepts easy and structured.
 
 You can find his YouTube channel here:  
-👉 [Complete Coding by Prashant Sir on YouTube](https://www.youtube.com/@CompleteCoding)
+👉 [Complete Coding by Prashant Sir on YouTube](https://www.youtube.com/@CompleteCodingByPrashantSir)
 
 ---
 

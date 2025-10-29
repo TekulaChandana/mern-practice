@@ -1,27 +1,26 @@
-# HTML Practice Repository
+# HTML Practice
 
 ## 📘 About This Project
 
-Documenting my HTML learning journey through hands-on examples and small practice projects.
+This repository contains HTML projects and examples I completed while **revising and reinforcing my HTML skills**.
 
-I'm learning HTML step by step by following tutorials from **"Complete Coding by Prashant Sir"** on YouTube.  
-All examples and code in this repository are based entirely on his publicly available tutorials.  
-This repository is created only for **personal learning and educational purposes**, and all credit for the original content goes to **Complete Coding by Prashant Sir**.
+I revisited HTML fundamentals through **"Complete Coding by Prashant Sir"** tutorials on YouTube and completed the full HTML course.  
+All examples and code in this repository are based on his publicly available tutorials. This repository is created for **personal practice and educational purposes**, with full credit to **Complete Coding by Prashant Sir**.
 
 ---
 
 ## 🎯 Purpose
 
-- To practice HTML concepts taught in tutorials
-- To build a strong foundation in web development
-- To track my learning progress through hands-on examples
+- To **revise and strengthen HTML concepts**
+- To build a solid foundation in web structure and semantics
+- To document hands-on practice exercises and projects
 
 ---
 
 ## 🧠 Topics Covered
 
 - Basic HTML structure and elements
-- Text formatting: Bold, Italic, Underline, Strike, Headings, Paragraphs
+- Text formatting: bold, italic, underline, strike, headings, paragraphs
 - Links and images
 - Line breaks and horizontal rules
 - Preformatted text and video embedding
@@ -33,7 +32,7 @@ This repository is created only for **personal learning and educational purposes
 
 ## 🙏 Credits
 
-Special thanks to ** Complete Coding by Prashant Sir** for providing free and helpful tutorials that made learning HTML easier.
+Special thanks to **Complete Coding by Prashant Sir** for providing free and helpful tutorials that made revising HTML easier.
 
 You can find his YouTube channel here:  
 👉 [Complete Coding by Prashant Sir on YouTube](https://www.youtube.com/@CompleteCodingByPrashantSir)
@@ -43,5 +42,5 @@ You can find his YouTube channel here:
 ## ⚖️ License
 
 This repository is for **educational and personal use only**.  
-The original tutorial content belongs to **Complete Coding by Prashant Sir**.  
+All original tutorial content belongs to **Complete Coding by Prashant Sir**.  
 No copyright infringement is intended.

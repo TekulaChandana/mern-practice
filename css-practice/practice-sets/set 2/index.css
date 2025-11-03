@@ -1,0 +1,16 @@
+#first{
+  background-color: aquamarine;
+  color:rgba(37, 27, 89, 0.7);
+}
+main{
+  height: 500px;
+  background-color: blanchedalmond;
+}
+#second{
+  background-image: url(../../images/css.jpg);
+  height: 300px;
+  width: 800px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}

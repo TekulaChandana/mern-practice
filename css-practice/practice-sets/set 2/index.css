@@ -7,10 +7,12 @@ main{
   background-color: blanchedalmond;
 }
 #second{
-  background-image: url(../../images/css.jpg);
+  /* background-color: yellow; */
+  /* background-image: url('../../images/css.jpg'); */
   height: 300px;
   width: 800px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+  /* background-repeat: no-repeat;
+  background-position: center; 
+  background-size: contain; */
+  background: yellow url("../../images/css.jpg")no-repeat center /contain;
 }
